@@ -4,4 +4,7 @@
 </center>
 -->
 
-![](how-you-doin-banner.png?raw=true)
+## Quotes for today
+```markdown
+May all your needs be fulfilled, your wishes fulfilled, your debts paid off
+```
